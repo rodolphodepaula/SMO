@@ -1,0 +1,48 @@
+.table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > td {
+  border: 1px solid #000;
+  line-height: 0.8;
+  color: #000;
+}
+
+.div1 {
+    width: 45%;
+    height: 20px;
+    color: #000;
+    margin-right: 10px;
+    display: inline-block;
+    background-color: #fff;
+    font-size: 18px;
+    text-align: right;
+    padding: 15px 0px 5px 0px;
+}
+
+.div2 {
+    width: 40%;
+    height: 20px;
+    color: #000;
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 0px;
+    font-size: 18px;
+    text-align: center;
+    padding: 0px 0px 5px 0px;
+}
+.div3 {
+    width: 40%;
+    height: 20px;
+    color: #000;
+    background-color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 0;
+    font-size: 18px;
+    text-align: center;
+    padding: 0px 0px 5px 0px;
+}
+
+
